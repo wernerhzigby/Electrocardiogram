@@ -1,0 +1,4 @@
+Flask==2.3.5
+adafruit-circuitpython-ads1x15==7.1.5
+matplotlib==3.8.1
+reportlab==4.1.0
