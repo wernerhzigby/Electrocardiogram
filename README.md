@@ -66,7 +66,7 @@ This project uses an **ADS1115 16-bit ADC** to read the analog ECG signal and co
 
 The diagram below shows the complete wiring and physical connections:
 
-![ECG Wiring Diagram](electrocardiograma/assembly/ECG.drawio.png)
+![ECG Wiring Diagram](assembly/ECG.drawio.png)
 
 ### Notes & Safety
 
