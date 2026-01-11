@@ -33,18 +33,18 @@ This project allows you to read ECG data using an ADS1115 ADC connected via I²C
 
 ## Datasheets & Technical References
 
-All component datasheets used in this project are stored locally in the **`datasheets/`** directory of this repository.  
-These documents were used during design, wiring, and software configuration.
+All component datasheets used in this project are stored in the **`datasheets/`** directory.  
+Click the links below to view each PDF:
 
-**Included datasheets:**
-- **ADS1115** – 16-bit I²C ADC electrical characteristics, gain settings, and timing
-- **ECG sensor module** – signal output range, pinout, and electrode behavior
-- **Supporting components** – any additional ICs or modules used in the signal chain
+- [AD8232 Heart Rate Monitor v1.0](datasheets/AD8232_Heart_Rate_Monitor_v10.pdf)  
+- [TP4056 Lithium Battery Charger Module](datasheets/TP4056-XUNDE.pdf)  
+- [XL6009 DC-DC Converter](datasheets/XL6009-DC-DC-Converter-Datasheet.pdf)  
+- [AD8232 ECG Sensor](datasheets/ad8232.pdf)  
 
 ### Why these datasheets matter
-- Confirm **safe voltage levels** (3.3 V logic compatibility with Raspberry Pi)
-- Understand **gain, sampling rate, and noise characteristics**
-- Reference **pinouts and timing diagrams** when modifying hardware or firmware
+- Confirm **safe voltage levels** (3.3 V logic compatibility with Raspberry Pi)  
+- Understand **gain, sampling rate, and noise characteristics**  
+- Reference **pinouts and timing diagrams** when modifying hardware or firmware  
 
 > 📁 Location:  
 > ```
