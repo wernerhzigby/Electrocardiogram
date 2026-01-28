@@ -171,7 +171,8 @@ https://lastminuteengineers.com/wp-content/uploads/arduino/AD8232-Module-ECG-Ele
 5. **Install dependencies**
     ```bash
     sudo apt install python3-pip -y
-    pip3 install -r requirements.txt
+    pip3 install -r requirements.txt --break-system-packages
+    sudo apt install libopenjp2-7 libjpeg-dev libtiff-dev libpng-dev
     ```
 
 ---
