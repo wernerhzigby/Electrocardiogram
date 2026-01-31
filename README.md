@@ -171,8 +171,8 @@ https://lastminuteengineers.com/wp-content/uploads/arduino/AD8232-Module-ECG-Ele
 5. **Install dependencies**
     ```bash
     sudo apt install python3-pip -y
+    sudo apt install libopenjp2-7 libjpeg-dev libtiff-dev libpng-dev python3-flask python3-pip python3-dev i2c-tools
     pip3 install -r requirements.txt --break-system-packages
-    sudo apt install libopenjp2-7 libjpeg-dev libtiff-dev libpng-dev python3-flask
     ```
 
 ---
