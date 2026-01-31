@@ -1,6 +1,6 @@
-Flask==3.0.0
-matplotlib==3.8.2
-reportlab==4.0.8
-adafruit-blinka==8.44.1
-adafruit-circuitpython-ads1x15==2.2.22
-Pillow==10.0.1
+Flask
+matplotlib
+reportlab
+adafruit-blinka
+adafruit-circuitpython-ads1x15
+Pillow
