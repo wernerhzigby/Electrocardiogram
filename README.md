@@ -1,6 +1,14 @@
 # P.U.L.S.E.
 ## Portable Unit for Live Signal Electrocardiography
 
+> ⚠️ **Project Status: Unmaintained**
+>
+> This repository is no longer actively maintained.
+>
+> The updated and actively developed version of this project is available here:
+>
+> 👉 https://github.com/wernerhzigby/pulse-ecg-monitor
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
