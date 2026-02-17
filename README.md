@@ -7,7 +7,7 @@
 >
 > The updated and actively developed version of this project is available here:
 >
-> 👉 https://github.com/wernerhzigby/P.U.L.S.E.
+> 👉https://github.com/wernerhzigby/P.U.L.S.E.
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
